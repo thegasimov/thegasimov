@@ -4,7 +4,7 @@
 
 ---
 
-![Profile Image](https://thegasimov.com/storage/resume/tural-qasimov.webp)
+<img src="https://thegasimov.com/storage/resume/tural-qasimov.webp" alt="Profile Image" width="250px">
 
 ---
 
@@ -27,24 +27,34 @@
 
 ### 💼 My Experiences
 
+<div style="width: 100%; overflow-x: auto;">
+  
 | Position                  | Company      | Duration         |
 |---------------------------|--------------|------------------|
 | Digital Department Manager| Evin.Az MMC  | 2022/09 - 2024/05|
 | SEO Specialist            | Freelancer   | 2018/01 - Present|
 | Full Stack Web Developer  | Freelancer   | 2015/01 - Present|
 
+</div>
+
 ---
 
 ### 🎓 My Education
+
+<div style="width: 100%; overflow-x: auto;">
 
 | Degree                                           | Institution | Duration      |
 |--------------------------------------------------|-------------|---------------|
 | Master: Oil, Gas Transportation & Wealth Protection Technologies | ASOIU       | 2020 - 2022  |
 | Bachelor: Oil & Gas Engineer                     | ASOIU       | 2016 - 2020  |
 
+</div>
+
 ---
 
 ### 🛠️ My Skills
+
+<div style="width: 100%; overflow-x: auto;">
 
 | Skill             | Proficiency |
 |-------------------|-------------|
@@ -54,6 +64,8 @@
 | **React Js**      | ![50%](https://via.placeholder.com/50/fff/000000?text=50%) |
 | **JavaScript**    | ![65%](https://via.placeholder.com/50/fff/000000?text=65%) |
 | **WordPress**     | ![96%](https://via.placeholder.com/50/fff/000000?text=96%) |
+
+</div>
 
 ---
 
