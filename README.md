@@ -49,52 +49,56 @@
 
 ### 🛠️ My Skills
 
-
-<div style="display: grid; grid-template-columns: auto auto; gap: 10px;">
-
-<div style="display: flex; align-items: center;">
-  <strong>SEO</strong>
-  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
-    <div style="width: 98%; background-color: #4caf50; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">98%</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <strong>Laravel Framework</strong>
-  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
-    <div style="width: 91%; background-color: #4caf50; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">91%</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <strong>PHP</strong>
-  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
-    <div style="width: 97%; background-color: #4caf50; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">97%</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <strong>React Js</strong>
-  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
-    <div style="width: 50%; background-color: #ff9800; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">50%</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <strong>JavaScript</strong>
-  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
-    <div style="width: 65%; background-color: #ff9800; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">65%</div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <strong>WordPress</strong>
-  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
-    <div style="width: 96%; background-color: #4caf50; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">96%</div>
-  </div>
-</div>
-
-</div>
+<table>
+  <tr>
+    <td><strong>SEO</strong></td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 98%; background-color: #4caf50; padding: 2px; text-align: right; color: white; border-radius: 5px;">98%</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Laravel Framework</strong></td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 91%; background-color: #4caf50; padding: 2px; text-align: right; color: white; border-radius: 5px;">91%</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>PHP</strong></td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 97%; background-color: #4caf50; padding: 2px; text-align: right; color: white; border-radius: 5px;">97%</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>React Js</strong></td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 50%; background-color: #ff9800; padding: 2px; text-align: right; color: white; border-radius: 5px;">50%</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 65%; background-color: #ff9800; padding: 2px; text-align: right; color: white; border-radius: 5px;">65%</div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>WordPress</strong></td>
+    <td>
+      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
+        <div style="width: 96%; background-color: #4caf50; padding: 2px; text-align: right; color: white; border-radius: 5px;">96%</div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 
 ---
