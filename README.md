@@ -49,57 +49,53 @@
 
 ### 🛠️ My Skills
 
-<table>
-  <tr>
-    <td><strong>SEO</strong></td>
-    <td>
-      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-        <div style="width: 98%; background-color: #4caf50; padding: 2px; text-align: right; color: white; border-radius: 5px;">98%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Laravel Framework</strong></td>
-    <td>
-      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-        <div style="width: 91%; background-color: #4caf50; padding: 2px; text-align: right; color: white; border-radius: 5px;">91%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>PHP</strong></td>
-    <td>
-      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-        <div style="width: 97%; background-color: #4caf50; padding: 2px; text-align: right; color: white; border-radius: 5px;">97%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>React Js</strong></td>
-    <td>
-      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-        <div style="width: 50%; background-color: #ff9800; padding: 2px; text-align: right; color: white; border-radius: 5px;">50%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>JavaScript</strong></td>
-    <td>
-      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-        <div style="width: 65%; background-color: #ff9800; padding: 2px; text-align: right; color: white; border-radius: 5px;">65%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>WordPress</strong></td>
-    <td>
-      <div style="width: 100%; background-color: #e0e0e0; border-radius: 5px;">
-        <div style="width: 96%; background-color: #4caf50; padding: 2px; text-align: right; color: white; border-radius: 5px;">96%</div>
-      </div>
-    </td>
-  </tr>
-</table>
+## Skills
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<div style="flex: 1; min-width: 250px; background-color: #f9f9f9; border: 1px solid #e0e0e0; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+  <strong>SEO</strong>
+  <div style="margin-top: 5px; background-color: #e0e0e0; border-radius: 5px;">
+    <div style="width: 98%; background-color: #4caf50; padding: 5px; color: white; border-radius: 5px;">98%</div>
+  </div>
+</div>
+
+<div style="flex: 1; min-width: 250px; background-color: #f9f9f9; border: 1px solid #e0e0e0; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+  <strong>Laravel Framework</strong>
+  <div style="margin-top: 5px; background-color: #e0e0e0; border-radius: 5px;">
+    <div style="width: 91%; background-color: #4caf50; padding: 5px; color: white; border-radius: 5px;">91%</div>
+  </div>
+</div>
+
+<div style="flex: 1; min-width: 250px; background-color: #f9f9f9; border: 1px solid #e0e0e0; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+  <strong>PHP</strong>
+  <div style="margin-top: 5px; background-color: #e0e0e0; border-radius: 5px;">
+    <div style="width: 97%; background-color: #4caf50; padding: 5px; color: white; border-radius: 5px;">97%</div>
+  </div>
+</div>
+
+<div style="flex: 1; min-width: 250px; background-color: #f9f9f9; border: 1px solid #e0e0e0; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+  <strong>React Js</strong>
+  <div style="margin-top: 5px; background-color: #e0e0e0; border-radius: 5px;">
+    <div style="width: 50%; background-color: #ff9800; padding: 5px; color: white; border-radius: 5px;">50%</div>
+  </div>
+</div>
+
+<div style="flex: 1; min-width: 250px; background-color: #f9f9f9; border: 1px solid #e0e0e0; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+  <strong>JavaScript</strong>
+  <div style="margin-top: 5px; background-color: #e0e0e0; border-radius: 5px;">
+    <div style="width: 65%; background-color: #ff9800; padding: 5px; color: white; border-radius: 5px;">65%</div>
+  </div>
+</div>
+
+<div style="flex: 1; min-width: 250px; background-color: #f9f9f9; border: 1px solid #e0e0e0; border-radius: 10px; padding: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+  <strong>WordPress</strong>
+  <div style="margin-top: 5px; background-color: #e0e0e0; border-radius: 5px;">
+    <div style="width: 96%; background-color: #4caf50; padding: 5px; color: white; border-radius: 5px;">96%</div>
+  </div>
+</div>
+
+</div>
 
 ---
 
