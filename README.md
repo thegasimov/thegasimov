@@ -4,7 +4,7 @@
 
 ---
 
-![Profile Image]([https://via.placeholder.com/150](https://thegasimov.com/storage/resume/tural-qasimov.webp))
+![Profile Image](https://thegasimov.com/storage/resume/tural-qasimov.webp)
 
 ---
 
@@ -63,7 +63,3 @@
 - **Email**: [q.tural57@gmail.com](mailto:q.tural57@gmail.com)
 - **Address**: Baku, Azerbaijan
 - **Website**: [thegasimov.com](https://thegasimov.com/)
-
-
----
-
