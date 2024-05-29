@@ -2,11 +2,6 @@
 
 ## Senior PHP Developer & SEO Specialist
 
----
-
-<img src="https://thegasimov.com/storage/resume/tural-qasimov.webp" alt="Profile Image" width="250px">
-
----
 
 ### 🛠️ My Quality Services
 
@@ -54,18 +49,53 @@
 
 ### 🛠️ My Skills
 
-<div style="width: 100%; overflow-x: auto;">
 
-| Skill             | Proficiency |
-|-------------------|-------------|
-| **SEO**           | ![98%](https://via.placeholder.com/50/fff/000000?text=98%) |
-| **Laravel Framework** | ![91%](https://via.placeholder.com/50/fff/000000?text=91%) |
-| **PHP**           | ![97%](https://via.placeholder.com/50/fff/000000?text=97%) |
-| **React Js**      | ![50%](https://via.placeholder.com/50/fff/000000?text=50%) |
-| **JavaScript**    | ![65%](https://via.placeholder.com/50/fff/000000?text=65%) |
-| **WordPress**     | ![96%](https://via.placeholder.com/50/fff/000000?text=96%) |
+<div style="display: grid; grid-template-columns: auto auto; gap: 10px;">
+
+<div style="display: flex; align-items: center;">
+  <strong>SEO</strong>
+  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 98%; background-color: #4caf50; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">98%</div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <strong>Laravel Framework</strong>
+  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 91%; background-color: #4caf50; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">91%</div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <strong>PHP</strong>
+  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 97%; background-color: #4caf50; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">97%</div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <strong>React Js</strong>
+  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 50%; background-color: #ff9800; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">50%</div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <strong>JavaScript</strong>
+  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 65%; background-color: #ff9800; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">65%</div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <strong>WordPress</strong>
+  <div style="flex: 1; margin-left: 10px; background-color: #e0e0e0; border-radius: 5px; overflow: hidden;">
+    <div style="width: 96%; background-color: #4caf50; padding: 2px 0; text-align: right; color: white; border-radius: 5px 0 0 5px;">96%</div>
+  </div>
+</div>
 
 </div>
+
 
 ---
 
