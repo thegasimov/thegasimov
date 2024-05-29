@@ -4,7 +4,7 @@
 
 ---
 
-![Profile Image](https://via.placeholder.com/150)
+![Profile Image]([https://via.placeholder.com/150](https://thegasimov.com/storage/resume/tural-qasimov.webp))
 
 ---
 
@@ -48,12 +48,12 @@
 
 | Skill             | Proficiency |
 |-------------------|-------------|
-| **SEO**           | ![98%](https://via.placeholder.com/20/ff0000/000000?text=98%) |
-| **Laravel Framework** | ![91%](https://via.placeholder.com/20/ff0000/000000?text=91%) |
-| **PHP**           | ![97%](https://via.placeholder.com/20/ff0000/000000?text=97%) |
-| **React Js**      | ![50%](https://via.placeholder.com/20/ff0000/000000?text=50%) |
-| **JavaScript**    | ![65%](https://via.placeholder.com/20/ff0000/000000?text=65%) |
-| **WordPress**     | ![96%](https://via.placeholder.com/20/ff0000/000000?text=96%) |
+| **SEO**           | ![98%](https://via.placeholder.com/50/fff/000000?text=98%) |
+| **Laravel Framework** | ![91%](https://via.placeholder.com/50/fff/000000?text=91%) |
+| **PHP**           | ![97%](https://via.placeholder.com/50/fff/000000?text=97%) |
+| **React Js**      | ![50%](https://via.placeholder.com/50/fff/000000?text=50%) |
+| **JavaScript**    | ![65%](https://via.placeholder.com/50/fff/000000?text=65%) |
+| **WordPress**     | ![96%](https://via.placeholder.com/50/fff/000000?text=96%) |
 
 ---
 
@@ -62,14 +62,8 @@
 - **Phone**: +994 (55) 955-59-57
 - **Email**: [q.tural57@gmail.com](mailto:q.tural57@gmail.com)
 - **Address**: Baku, Azerbaijan
+- **Website**: [thegasimov.com](https://thegasimov.com/)
 
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turalgasimov)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/turalgasimov)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/turalgasimov)
 
 ---
 
